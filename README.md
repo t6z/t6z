@@ -1,14 +1,8 @@
-👋 Hi, I’m @t6z
+👋 Hi, I’m Thomas
 
-👀 I’m interested in (currently unsure)
+👀 I’m interested in embedded security 🔒
 
 🌱 I’m currently learning rust-lang 🦀
 
-💞️ I’m looking to collaborate on (currently unsure)
+📫 How to reach me: tsmallarz@gmail.com
 
-📫 How to reach me: (need to add...)
-
-<!---
-t6z/t6z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
